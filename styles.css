@@ -1,0 +1,35 @@
+    body{
+        background-color: gainsboro;
+    }
+
+    h1{
+        padding-left: 37.5%;
+    }
+
+    .red{
+        color: blue;
+    }
+
+    #Med{
+        color: black;
+    }
+
+    .container{
+        margin: 300px;
+        padding: 50px;
+        border:10px solid black;
+    }
+
+    .headings{
+        font-size: 20px;
+    }
+
+    button{
+        padding: 20px;
+        border-radius: 20px;
+        font-size: 40px;
+        background-color: aquamarine;
+    }
+
+/* margin contains top right bottom left in that order 
+if just one value: all top, right, bottom, left will be that.*/
